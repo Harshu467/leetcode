@@ -6,12 +6,12 @@ You can also contribute to this Repository
   <img src="https://leetcode.com/static/images/badges/2022/lg/2022-annual-50.png" alt="50 Days Of Code Badge">
   
 </p>
-#Study Plans
+<h1>Study Plans</h1>
 <p>
   <img src="https://assets.leetcode.com/static_assets/others/algorithm_I.png" alt="Algorithm ONE">
   <img src="https://assets.leetcode.com/static_assets/others/SQLI.png" alt="SQL ONE">
 </p>
-# Daily Medals
+<h1>Daily Medals</h1>
 <p>
   <img src="https://leetcode.com/static/images/badges/dcc-2023-1.png" alt="January Badge 2023">
   <img src="https://leetcode.com/static/images/badges/dcc-2023-2.png" alt="February Badge 2023">
