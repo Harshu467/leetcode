@@ -1,4 +1,5 @@
-# leetcode
+# Leetcode Coding Platform Open Source
+You can also contribute to this Repository
 # Badges I earned on LeetCode
 
 <p align="center">
