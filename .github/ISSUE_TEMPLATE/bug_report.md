@@ -1,38 +1,35 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: Bug Report
+about: Report a bug in a LeetCode solution
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Description
+<!-- A clear and concise description of the bug you encountered. -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Steps to Reproduce
+<!-- Detailed steps to reproduce the bug. Please include specific inputs, expected outputs, and any relevant code snippets. -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+1. 
+2. 
+3. 
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Expected Behavior
+<!-- A clear and concise description of what you expected to happen. -->
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Actual Behavior
+<!-- A clear and concise description of what actually happened. -->
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## Environment
+<!-- Include any relevant details about the environment in which the bug occurred, such as the programming language, LeetCode problem number, and any specific context. -->
 
-**Additional context**
-Add any other context about the problem here.
+- Programming Language:
+- LeetCode Problem Number:
+- Additional Context (if any):
+
+## Screenshots or Code Snippets
+<!-- If applicable, add screenshots or code snippets that demonstrate the bug. -->
+
+## Additional Information
+<!-- Add any other relevant information about the bug here. -->
+
