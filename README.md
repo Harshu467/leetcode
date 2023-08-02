@@ -19,5 +19,5 @@ You can also contribute to this Repository
   <img src="https://leetcode.com/static/images/badges/dcc-2023-4.png" alt="April Badge 2023">
   <img src="https://leetcode.com/static/images/badges/dcc-2023-5.png" alt="May Badge 2023">
   <img src="https://leetcode.com/static/images/badges/dcc-2023-6.png" alt="June Badge 2023">
-   <img src="https://leetcode.com/static/images/badges/2023/gif/2023-07.png" alt="July Badge 2023">
+   <img src="https://leetcode.com/static/images/badges/dcc-2023-7.png" alt="July Badge 2023">
 </p>
